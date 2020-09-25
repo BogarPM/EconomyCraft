@@ -1,0 +1,57 @@
+name: EconomyCraft
+version: 1.0.0
+main: src.Main
+author: DRK970
+api-version: 1.15
+
+commands:
+    money:
+        usage: /<command>
+        description: shows yours or another player's current money
+    claim:
+        usage: /<command>
+        description: claim a piece of land
+    sell:
+        usage: /<command> <hand>
+        description: Sell your items to get money
+    register:
+        usage: /<command> <item> <args>
+    sethome:
+        usage: /<command> 
+        description: sets a home
+    home:
+        usage: /<command> 
+        description: sets a home
+    shop:
+        usage: /<command> 
+        description: shop options
+    top:
+        usage: /<command> 
+        description: shows the money top of the server
+    buy:
+        usage: /<command> 
+        description: shows the money top of the server
+    worth:
+        usage: /<command> 
+        description: shows the money top of the server
+    walk:
+        usage: /<command> 
+        description: shows the money top of the server
+    spawn:
+        usage: /<command>
+        description: Telepoorts you to spawn
+    test:
+        usage: /<command>
+        description: test command
+    warp:
+        usage: /<command>
+        description: test command
+    pay:
+        usage: /<command>
+        description: pay money to another online player
+    tpa:
+        usage: /<command>
+        description: teleports you to other players
+    terrains:
+        usage: /<command>
+        description: terrains options
